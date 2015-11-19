@@ -1,3 +1,3 @@
-I’m learning Git.
-I’m learning Git, too.
+I was learning Git.
+I was learning Git, too.
 hahahahaha.
