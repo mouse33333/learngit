@@ -7,3 +7,10 @@ change again.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 testing new merge mode
+this is a new line
+:wa
+:wq
+:wi
+jksdjfklsdjfkkjsjf jskdajfsjlskjfkjflks
+$ wa
+
